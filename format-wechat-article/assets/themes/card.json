@@ -1,0 +1,41 @@
+{
+  "id": "card",
+  "name": "知识卡片",
+  "keywords": ["教程", "科普", "清单", "概念", "入门"],
+  "colors": {
+    "page": "#F5F7FF",
+    "surface": "#FFFFFF",
+    "text": "#252A3D",
+    "muted": "#6F7589",
+    "primary": "#6254D9",
+    "secondary": "#3D8EDB",
+    "accent": "#F39A69",
+    "line": "#E1E4F2",
+    "soft": "#EEF0FF"
+  },
+  "typography": {
+    "title_px": 29,
+    "section_px": 21,
+    "body_px": 16,
+    "caption_px": 12,
+    "line_height": 1.78,
+    "title_weight": 750,
+    "body_weight": 400
+  },
+  "layout": {
+    "content_width_px": 375,
+    "side_padding_px": 18,
+    "section_gap_px": 28,
+    "paragraph_gap_px": 14,
+    "radius_px": 16,
+    "image_radius_px": 14
+  },
+  "components": {
+    "section_heading": "colored number capsule attached to title",
+    "callout": "white card with tinted header and soft border",
+    "quote": "compact statement card with oversized quote mark",
+    "figure": "image inside a labeled knowledge card",
+    "divider": "three small colored dots"
+  }
+}
+

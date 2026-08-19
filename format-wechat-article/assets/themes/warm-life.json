@@ -1,0 +1,41 @@
+{
+  "id": "warm-life",
+  "name": "温暖生活",
+  "keywords": ["成长", "生活", "亲子", "旅行", "情绪"],
+  "colors": {
+    "page": "#FFF9F3",
+    "surface": "#FFFEFC",
+    "text": "#423A35",
+    "muted": "#85766D",
+    "primary": "#D86F5C",
+    "secondary": "#C99362",
+    "accent": "#7FA48D",
+    "line": "#EEDFD3",
+    "soft": "#FFF0E5"
+  },
+  "typography": {
+    "title_px": 30,
+    "section_px": 21,
+    "body_px": 17,
+    "caption_px": 12,
+    "line_height": 1.88,
+    "title_weight": 700,
+    "body_weight": 400
+  },
+  "layout": {
+    "content_width_px": 375,
+    "side_padding_px": 23,
+    "section_gap_px": 36,
+    "paragraph_gap_px": 17,
+    "radius_px": 16,
+    "image_radius_px": 16
+  },
+  "components": {
+    "section_heading": "coral title with a small organic marker",
+    "callout": "cream panel with coral edge and gentle radius",
+    "quote": "warm paper card with centered text",
+    "figure": "soft rounded image and warm gray caption",
+    "divider": "small leaf-toned ornament"
+  }
+}
+

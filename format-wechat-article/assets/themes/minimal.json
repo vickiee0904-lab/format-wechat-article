@@ -1,0 +1,41 @@
+{
+  "id": "minimal",
+  "name": "简约留白",
+  "keywords": ["随笔", "观点", "访谈", "评论", "长文"],
+  "colors": {
+    "page": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "text": "#242424",
+    "muted": "#7A7A7A",
+    "primary": "#202020",
+    "secondary": "#A6A6A6",
+    "accent": "#D7B77A",
+    "line": "#EAEAEA",
+    "soft": "#F7F7F5"
+  },
+  "typography": {
+    "title_px": 30,
+    "section_px": 21,
+    "body_px": 17,
+    "caption_px": 12,
+    "line_height": 1.9,
+    "title_weight": 700,
+    "body_weight": 400
+  },
+  "layout": {
+    "content_width_px": 375,
+    "side_padding_px": 24,
+    "section_gap_px": 38,
+    "paragraph_gap_px": 18,
+    "radius_px": 6,
+    "image_radius_px": 4
+  },
+  "components": {
+    "section_heading": "plain dark title with a small gold rule",
+    "callout": "warm gray block with minimal border",
+    "quote": "large text with ample top and bottom whitespace",
+    "figure": "edge-aligned image and understated caption",
+    "divider": "thin centered gray rule"
+  }
+}
+

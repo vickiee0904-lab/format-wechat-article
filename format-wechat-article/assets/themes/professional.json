@@ -1,0 +1,41 @@
+{
+  "id": "professional",
+  "name": "专业报告",
+  "keywords": ["研究", "商业", "行业", "政策", "数据"],
+  "colors": {
+    "page": "#F5F7FA",
+    "surface": "#FFFFFF",
+    "text": "#182335",
+    "muted": "#647184",
+    "primary": "#174A7E",
+    "secondary": "#2C6E9E",
+    "accent": "#C6974B",
+    "line": "#D8E0E8",
+    "soft": "#EDF3F8"
+  },
+  "typography": {
+    "title_px": 29,
+    "section_px": 21,
+    "body_px": 16,
+    "caption_px": 12,
+    "line_height": 1.78,
+    "title_weight": 750,
+    "body_weight": 400
+  },
+  "layout": {
+    "content_width_px": 375,
+    "side_padding_px": 22,
+    "section_gap_px": 32,
+    "paragraph_gap_px": 15,
+    "radius_px": 8,
+    "image_radius_px": 8
+  },
+  "components": {
+    "section_heading": "navy numbered heading with thin rule",
+    "callout": "light blue evidence box with label",
+    "quote": "navy left border with compact attribution",
+    "figure": "clean rectangular image and source caption",
+    "divider": "full-width hairline"
+  }
+}
+

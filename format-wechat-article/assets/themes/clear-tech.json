@@ -1,0 +1,41 @@
+{
+  "id": "clear-tech",
+  "name": "清透科技杂志",
+  "keywords": ["AI", "科技", "软件", "未来", "数字化"],
+  "colors": {
+    "page": "#F7F9FF",
+    "surface": "#FFFFFF",
+    "text": "#24283B",
+    "muted": "#70778F",
+    "primary": "#4967F2",
+    "secondary": "#8A63E8",
+    "accent": "#42BEEA",
+    "line": "#DDE4FF",
+    "soft": "#EEF2FF"
+  },
+  "typography": {
+    "title_px": 30,
+    "section_px": 22,
+    "body_px": 16,
+    "caption_px": 12,
+    "line_height": 1.82,
+    "title_weight": 750,
+    "body_weight": 400
+  },
+  "layout": {
+    "content_width_px": 375,
+    "side_padding_px": 22,
+    "section_gap_px": 34,
+    "paragraph_gap_px": 16,
+    "radius_px": 18,
+    "image_radius_px": 18
+  },
+  "components": {
+    "section_heading": "small gradient number badge plus dark title",
+    "callout": "pale blue-violet panel with a slim accent line",
+    "quote": "white card with blue left border and generous whitespace",
+    "figure": "rounded image with subtle blue border and quiet caption",
+    "divider": "short blue-to-violet rule"
+  }
+}
+
